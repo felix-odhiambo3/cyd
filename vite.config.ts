@@ -10,4 +10,5 @@ export default defineConfig({
       "same-runtime/dist/jsx-runtime",
     ],
   },
+  base: "/cyd"
 });
